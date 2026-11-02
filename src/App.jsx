@@ -81,6 +81,12 @@ const contactLinks = [
   href: "https://calendly.com/k2004gharat/30min",
 },
 
+{
+  label: "Resume / CV",
+  value: "View my resume",
+  href: "/resume.pdf",
+},
+
 ];
 
 
